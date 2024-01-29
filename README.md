@@ -1,4 +1,8 @@
-# testserverheartrisk
+Web-API по ТЗ. 
+
+Фреймворк FastApi. Хранение данных в json.
+Часть проекта защищена соглашением о неразглашении
+
 
 -Parsing.py (parsing data from "rambler" and "ru-meteo")
 
