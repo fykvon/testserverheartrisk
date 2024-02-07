@@ -12,11 +12,11 @@ Web-API по ТЗ.
 
 -Parsing.py (parsing data from "rambler" and "ru-meteo")
 
-Для обработки данных полученной html используется Beautiful Soup
+/Для обработки данных полученной html используется Beautiful Soup
 
 -Count.py (main module. In this module hidded intellectual property. Сalculate  heart risk dependence from humidity, pressure, temperature etc.)
 
-Используется для расчёта и передачи данных на фронтэнд
+/Используется для расчёта и передачи данных на фронтэнд
 
 -main.py (Common start FastApi module)
 ```html
